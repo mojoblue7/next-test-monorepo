@@ -8,10 +8,17 @@
   },
   "devDependencies": {
     "@turbo/gen": "^1.9.7",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",
-    "prettier": "^2.5.1",
-    "turbo": "latest"
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0",
+    "turbo": "latest",
+    "typescript": "^5.1.6"
   },
   "packageManager": "pnpm@7.15.0",
   "name": "turborepo"
