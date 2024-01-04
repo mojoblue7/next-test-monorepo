@@ -9,20 +9,14 @@
     "generate:component": "turbo gen react-component"
   },
   "devDependencies": {
-    "@emotion/babel-plugin": "^11.11.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "autoprefixer": "^10.4.15",
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",
-    "postcss": "^8.4.29",
     "react": "^18.2.0",
     "tsconfig": "workspace:*",
+    "@package/tailwind-config": "workspace:*",
     "typescript": "^4.5.2"
-  },
-  "dependencies": {
-    "@emotion/react": "^11.11.3",
-    "@emotion/styled": "^11.11.0",
-    "styled-components": "^6.1.3"
   }
 }

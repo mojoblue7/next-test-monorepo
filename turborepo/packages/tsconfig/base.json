@@ -14,8 +14,7 @@
     "noUnusedParameters": false,
     "preserveWatchOutput": true,
     "skipLibCheck": true,
-    "strict": true,
-    "jsxImportSource": "@emotion/react"
+    "strict": true
   },
   "parser": "@typescript-eslint/parser",
   "exclude": ["node_modules", "plugin:@typescript-eslint/recommended"]
